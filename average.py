@@ -1,3 +1,6 @@
+# Average.py helper by Armaan McLeod
+# pls give him all the credit
+
 # Some useful libraries imported 
 import subprocess
 import itertools
